@@ -22,4 +22,15 @@
   - Tool : `Eclipse(4.29.0)`
   - ETC : `Git`
 
+## 주요 기능 실행 화면
+<details>
+  <summary>주요 기능 실행 화면</summary>
 
+  * **로그인 및 회원 정보 변경**
+    * 로그인하는 계정의 권한에 따라 버튼 출력을 다르게 하였습니다. 
+    * 관리자 계정의 경우 `관리자 페이지` 를 통해 `상품 관리가 가능합니다`.
+   
+    ![Yes24_login_product_member](https://github.com/JongHoonKim1004/Yes24_JSP/assets/155927559/d22c54a4-f2ed-48b0-8073-ef4d9be48023)
+
+    
+</details>
