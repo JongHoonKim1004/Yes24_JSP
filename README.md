@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://cdn-icons-png.flaticon.com/512/5432/5432699.png" style="width: 200; height: 200"></h1>
-<h1 align="center>JSP 인터넷 서점 프로젝트 - YES24</h1>
+<h1 align="center">JSP 인터넷 서점 프로젝트 - YES24</h1>
 <br/><br/>
 
 ## 목차
