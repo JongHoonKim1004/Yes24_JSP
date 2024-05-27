@@ -1,4 +1,8 @@
-<h1 align="center"><img src="https://cdn-icons-png.flaticon.com/512/5432/5432699.png" style="width: 200; height: 200"></h1>
+<h1 align="center">
+  
+![Yes24_main](https://github.com/JongHoonKim1004/Yes24_JSP/assets/155927559/37eab771-51b3-430c-8b93-62c82401efef)
+
+</h1>
 <h1 align="center">JSP 인터넷 서점 프로젝트 - YES24</h1>
 <br/><br/>
 
@@ -25,7 +29,7 @@
 
 ## 주요 기능 실행 화면
 
-  ####주요 기능 실행 화면
+  #### 주요 기능 실행 화면
 
   * **로그인 및 회원 정보 변경**
     * 로그인하는 계정의 권한에 따라 버튼 출력을 다르게 하였습니다. 
