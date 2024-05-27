@@ -1,0 +1,9 @@
+$(document).ready(function(){
+    $("#fast-search").mouseenter(function(){
+        $("#fast-search-div").show();
+        $(".fast-search-div").hide();
+    });
+    $("#fast-search").mouseleave(function(){
+        $("#fast-search-div").hide();
+    });
+});

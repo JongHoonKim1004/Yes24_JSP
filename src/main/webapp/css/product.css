@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+#adminHeader {
+	width: 1200px;
+	height: 150px;
+	margin: 0 auto 30px;
+	padding: 10px 0;
+	border-bottom: 1px solid #0080ff;
+}
+
+.adminHeadLogo {
+	width: 265px;
+	height: 112px;
+	float: left;
+	margin-right: 20px;
+}
+
+.adminHeadLogo > img {
+	width: 265px;
+	height: 112px;
+}
+
+.adminHeadMid {
+	width: 635px;
+	height: 130px;
+	float: left;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.adminHeadMenu {
+	width: 270px;
+	height: 130px;
+	float: right;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.adminHeadMenu > a {
+	margin: 0 10px;
+}
+
+#productList {
+	margin: 0 auto;
+	width: 1200px;
+	height: auto;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 12px;
+	line-height:24px;
+}
+
+table td, th {
+	border: 1px solid #d3d3d3;
+	padding: 5px;
+	font-size: 12px;
+	line-height:24px;
+}
+
+th {
+	background-color: #0080ff;
+	
+	font-size: 12px;
+	line-height: 24px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #0080ff;
+}

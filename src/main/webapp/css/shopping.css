@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+#wrap {
+	width: 971px;
+	margin: 0 auto;
+}
+
+h1 {
+	color: green;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 12px;
+	line-height:24px;
+}
+
+table td, th {
+	border: 1px solid #d3d3d3;
+	padding: 5px;
+}
+
+th {
+	background-color: yellowgreen;
+	width: 120px;
+}
+
+img {
+	width: 220px;
+	height: 300px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+	coloe:green;
+}

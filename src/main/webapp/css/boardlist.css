@@ -1,0 +1,79 @@
+@charset "UTF-8";
+
+body {
+	background-color: #f8f8f8;
+}
+
+#loginFooter {
+	width: 960px; 
+	height: 100px;
+	margin: 10px auto;	
+}
+
+#boardList {
+	width: 1200px;
+	height: auto;
+	margin: 50px auto;
+	min-height: 500px;
+	background-color: white;
+}
+
+.boardList {
+	width: 960px;
+	height: auto;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+h1 {
+	font-size: 30px;
+	line-height: 30px;
+	font-weight: 600;
+	text-align: center;
+}
+
+.boardTable {
+	text-align: center;
+	width: 100%;
+	font-size: 16px;
+	line-height: 32px;
+	border-collapse: collapse;
+	margin-top: 100px;	
+	
+}
+
+
+table {
+	
+	width: 100%;
+	font-size: 16px;
+	line-height: 32px;
+	border-collapse: collapse;
+	margin-top: 100px;		
+}
+
+table td, th {
+	border: 1px solid #d8d8d8;
+}
+
+th {
+	background-color: #0080ff;
+	color: white;
+	text-align: center;
+}
+
+td {
+	padding: 5px 0 10px 5px;
+	
+	
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
