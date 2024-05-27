@@ -1,6 +1,7 @@
 <h1 align="center">
   
-![Yes24_main](https://github.com/JongHoonKim1004/Yes24_JSP/assets/155927559/37eab771-51b3-430c-8b93-62c82401efef)
+  ![Yes24_main - 복사본](https://github.com/JongHoonKim1004/Yes24_JSP/assets/155927559/89770185-f631-48e9-af81-919a64d3af1e)
+
 
 </h1>
 <h1 align="center">JSP 인터넷 서점 프로젝트 - YES24</h1>
